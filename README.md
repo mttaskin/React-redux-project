@@ -1,12 +1,14 @@
-# Redux Toolkit Ornegi
+# react-redux-project-mt.netlify.app
 
-## `Kurulum`
+# Redux Toolkit example
+
+## `setup`
 
 ```
 npm install veya yarn
 ```
 
-## `Kullanilan Kutuphaneler`
+## `using library`
 
 - `@reduxjs/toolkit`
 - `react-redux`
@@ -16,14 +18,14 @@ npm install veya yarn
 - `@emotion/react`
 - `@emotion/styled`
 
-## `Kullanilan API`:
+## `using API`:
 
 - https://newsapi.org/
-  (Get Key butonuna tiklanarak key alinabilir)
+  (clicked Get Key button for taking api key)
 
 - URL:
   const url = `https://newsapi.org/v2/top-headlines?country=tr&apiKey=${API_KEY}`;
 
-## `Kullanilan Araclar`
+## `using tools`
 
 - `Redux Dev Tools` : Chrome uzerinde calisan ve global state uzerinde yapilan tum degisikliklerin takip edilmesini saglayan tarayici uzantisidir. Indirmek icin [tiklayiniz.](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)`
