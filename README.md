@@ -16,7 +16,7 @@ npm install veya yarn
 - `@emotion/react`
 - `@emotion/styled`
 
-## `Kullanilacak API`:
+## `Kullanilan API`:
 
 - https://newsapi.org/
   (Get Key butonuna tiklanarak key alinabilir)
@@ -24,6 +24,6 @@ npm install veya yarn
 - URL:
   const url = `https://newsapi.org/v2/top-headlines?country=tr&apiKey=${API_KEY}`;
 
-## `Kullanilacak Araclar`
+## `Kullanilan Araclar`
 
 - `Redux Dev Tools` : Chrome uzerinde calisan ve global state uzerinde yapilan tum degisikliklerin takip edilmesini saglayan tarayici uzantisidir. Indirmek icin [tiklayiniz.](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=chrome-ntp-icon)`
